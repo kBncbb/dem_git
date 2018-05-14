@@ -12,4 +12,4 @@ resultat <- sqrt(((resultat * 10) / (resultat + 5)) * -5)
 # On a fini nos différents traitements et on enregistre le résultat dans un fichier
 print("Sauvegarde")
 save(resultat, file="Données/resultat.RData")
-print("Fini =)")
+print("Fini, et bien fini =)")
